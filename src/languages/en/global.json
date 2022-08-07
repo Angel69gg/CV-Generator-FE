@@ -1,5 +1,71 @@
 {
     "navbar":{
-        
+        "ingles":"English",
+        "espanol":"Spanish",
+        "inicio": "Home"
+    },
+    "datosPerfil":{
+        "nombre":"Name",
+        "apellido": "Last Name",
+        "edad": "Age",
+        "genero": "Genre",
+        "descripcion": "Description",
+        "fechaNacimiento": "Born Date"
+    },
+    "contacto":{
+        "email": "email",
+        "telefono": "Telophone",
+        "linkedin": "Linkedin Link"
+    },
+    "experiencia":{
+        "empresa": "company",
+        "cargo": "position",
+        "fechaInicio": "Beginning date",
+        "fechaFin": "Last Date",
+        "descripcion": "Description"
+    },
+    "educacion":{
+        "titulo": "Degree",
+        "institucion": "Institution",
+        "fechaInicio": "Beginning date",
+        "fechaFin": "Last Date",
+        "descripcion": "Description"
+    },
+    "idiomas":{
+        "idioma": "Languages",
+        "ingles": "English",
+        "espanol": "Spanish",
+        "aleman": "German",
+        "frances": "French"
+    },
+    "habilidades":{
+        "habilidad": "habilities"
+    },
+    "fortalezas":{
+        "fortaleza": "strengths"
+    },
+    "debilidades":{
+        "debilidad": "weaknesess"
+    },
+    "proyectos":{
+        "nombre": "Name of the proyect",
+        "descripcion": "Description",
+        "fechaInicio": "Beginning date",
+        "fechaFin": "Last Date",
+        "url": "URL"
+    },
+    "redes":{
+        "nombre": "Name of social media",
+        "url": "URL"
+    },
+    "titulos":{
+        "datosPerfil":"Profile data",
+        "contacto":"Contact",
+        "experiencia":"Experience",
+        "educacion":"Education",
+        "idiomas":"Languages",
+        "habilidades":"Habilities",
+        "proyectos":"projects",
+        "redes":"social media"
     }
 }

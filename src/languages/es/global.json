@@ -3,5 +3,69 @@
         "ingles": "Ingles",
         "espanol": "Espanol",
         "inicio": "Inicio"
+    },
+    "datosPerfil":{
+        "nombre":"Nombre",
+        "apellido": "Apellido",
+        "edad": "edad",
+        "genero": "Genero",
+        "descripcion": "Descripcion",
+        "fechaNacimiento": "Fecha nacimiento"
+    },
+    "contacto":{
+        "email": "Email",
+        "telefono": "Telefono",
+        "linkedin": "Linkedin Link"
+    },
+    "experiencia":{
+        "empresa": "Compañia",
+        "cargo": "posicion",
+        "fechaInicio": "Fecha Inicio",
+        "fechaFin": "Fecha Fin",
+        "descripcion": "Descripcion"
+    },
+    "educacion":{
+        "titulo": "Titulo",
+        "institucion": "Institucion",
+        "fechaInicio": "Fecha Inicio",
+        "fechaFin": "Fecha Fin",
+        "descripcion": "Descripcion"
+    },
+    "idiomas":{
+        "idioma": "Idiomas",
+        "ingles": "Ingles",
+        "espanol": "Espanol",
+        "aleman": "Aleman",
+        "frances": "Frances"
+    },
+    "habilidades":{
+        "habilidad": "Habilidades"
+    },
+    "fortalezas":{
+        "fortaleza": "Fortalezas"
+    },
+    "debilidades":{
+        "debilidad": "Debilidades"
+    },
+    "proyectos":{
+        "nombre": "Nombre del proyecto",
+        "descripcion": "Descripcion",
+        "fechaInicio": "Fecha Inicio",
+        "fechaFin": "Fecha Fin",
+        "url": "URL"
+    },
+    "redes":{
+        "nombre": "Nombre red social",
+        "url": "URL"
+    },
+    "titulos":{
+        "datosPerfil":"Datos del Perfil",
+        "contacto":"Contacto",
+        "experiencia":"Experiencia",
+        "educacion":"Educacion",
+        "idiomas":"Idiomas",
+        "habilidades":"Habilidades",
+        "proyectos":"Proyectos",
+        "redes":"Redes"
     }
 }

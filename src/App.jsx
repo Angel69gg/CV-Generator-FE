@@ -1,13 +1,15 @@
+import {Navbar} from "./components/Navbar";
+import {Formulario} from "./components/Formulario";
+import {Imagen} from "./components/Imagen"
 
 function App() {
-
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+    <div>
+    <Navbar/>
+   <Formulario/>
+   <Imagen/>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
