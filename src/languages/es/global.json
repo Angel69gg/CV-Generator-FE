@@ -67,5 +67,17 @@
         "habilidades":"Habilidades",
         "proyectos":"Proyectos",
         "redes":"Redes"
+    },
+    "inicio":{
+        "titulo":"Bienvenido a nuestra generadora de Curriculum Vitae",
+        "descripcion":"Para generar un curriculum vitae da click en el siguiente boton",
+        "generar":"Generar"
+    },
+    "guardar":"Guardar",
+    "genero":{
+        "masculino": "Masculino",
+        "femenino": "Femenino",
+        "otros": "Otros"
     }
+
 }

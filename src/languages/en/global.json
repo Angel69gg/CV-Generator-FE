@@ -67,5 +67,17 @@
         "habilidades":"Habilities",
         "proyectos":"projects",
         "redes":"social media"
+    },
+    "inicio":{
+        "titulo":"Welcome to our Curriculum Vitae generator",
+        "descripcion":"To generate a resume, click on the following button",
+        "generar":"Trigger"
+
+    },
+    "guardar":"Save",
+    "genero":{
+        "masculino": "Male",
+        "femenino": "Female",
+        "otros": "Other"
     }
 }
