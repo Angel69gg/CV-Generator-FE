@@ -1,10 +1,17 @@
+import { Routes, Route } from 'react-router-dom'
+import Inicio from './Pages/Inicio'
+import { Navbar } from "./components/Navbar";
+import { Formulario } from "./components/Formulario";
+import { Imagen } from "./components/Imagen"
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+    <div>
+      <Navbar />
+      <Routes>
+        <Route path="*" element={<Inicio />} />
+        <Route path="/curriculum" element={<Formulario />} />
+      </Routes>
     </div>
   );
 }
