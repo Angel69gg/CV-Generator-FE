@@ -23,7 +23,7 @@ import { addCV } from '../services/cv';
 
 
 export const Formulario = () => {
-    const [t, i18n] = useTranslation("global") //se inicializa constatnte de traducccion
+    const [t, i18n] = useTranslation("global") //se inicializa constatnte de traducccion.
     const [data, setData] = useState()
     const [loading, setLoading] = useState(false)
     const [open, setOpen] = useState(false)
