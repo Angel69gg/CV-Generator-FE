@@ -8,7 +8,6 @@ import { Imagen } from "./components/Imagen"
 function App() {
   return (
     <div>
-      <Navbar />
       <Routes>
         <Route path="*" element={<Login/>} />
         <Route path="/curriculum" element={<Formulario />} />

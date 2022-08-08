@@ -17,6 +17,7 @@ import { useState } from 'react';
 import { Imagen } from './Imagen'
 import { ToastContainer, toast } from 'material-react-toastify';
 import 'material-react-toastify/dist/ReactToastify.css';
+import { Navbar } from "./Navbar";
 
 import { addCV } from '../services/cv';
 
@@ -88,7 +89,8 @@ export const Formulario = () => {
     }
 
     return (
-        <div className='border border-black m-10'>
+        <div className='border border-black'>
+            <Navbar />
             <form onSubmit={handleSubmit}>
                 <h2 className='text-xl text-center p-2'>{t("titulos.datosPerfil")} </h2>
 
