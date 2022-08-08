@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next'
 
 function Inicio() {
   const navigate = useNavigate()
-  const [t, i18n] = useTranslation("global")
+  const [t, i18n] = useTranslation("global") //se inicializa la constante de traduccion
 
   return (
     <div>
