@@ -78,6 +78,12 @@
         "masculino": "Masculino",
         "femenino": "Femenino",
         "otros": "Otros"
+    },
+    "login":{
+        "usuario":"Usuario",
+        "contrasena":"Contrasena",
+        "letrero":"Porfavor pon tu contrasena",
+        "iniciar":"Iniciar sesion"
     }
 
 }

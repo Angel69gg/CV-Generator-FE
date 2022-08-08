@@ -79,5 +79,12 @@
         "masculino": "Male",
         "femenino": "Female",
         "otros": "Other"
+    },
+    "login":{
+        "usuario":"Username",
+        "contrasena":"Password",
+        "letrero":"Please choice your password",
+        "iniciar":"Log In"
+
     }
 }
