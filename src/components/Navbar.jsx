@@ -13,10 +13,10 @@ export const Navbar = () => {
                             <Button variant="contained" onClick={()=> navigate("/")} >{t("navbar.inicio")}</Button>
                         </li>
                         <li>
-                            <Button variant="contained" onClick={() => { i18n.changeLanguage("es") }}>{t("navbar.espanol")}</Button>
+                            <Button variant="contained" onClick={() => { i18n.changeLanguage("es") }}>{t("navbar.espanol")}</Button> {/* se cambia el idioma a español */}
                         </li>
                         <li>
-                            <Button variant="contained" onClick={() => { i18n.changeLanguage("en") }}>{t("navbar.ingles")}</Button>
+                            <Button variant="contained" onClick={() => { i18n.changeLanguage("en") }}>{t("navbar.ingles")}</Button> {/* se cambia el idioma a ingles */}
                         </li>
                     </ul>
         </nav>
